@@ -10,6 +10,6 @@
 	</author>
 	  <preference name="phonegap-version" value="cli-8.0.0" />
            <icon src="android-chrome-256x256.png" />
-	<content src="www/index.html" />
+	<content src="index.html" />
     <access origin="*" />
 </widget>
